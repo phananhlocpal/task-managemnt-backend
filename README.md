@@ -3,30 +3,31 @@
 ## Features
 
 - Task Management
-  - Create new Task
-  - Get Task list
-  - Get Task details
-  - Assign Task to User
-  - Mark Task as completed
+  - [x] Create new Task
+  - [x] Get Task list
+  - [ ] Get Task details
+  - [ ] Mark Task as completed
+  - [ ] ... Adding more ...
 - User Management
-  - Create new User
-  - Get User list
-  - Get User details
+  - [x] Create new User
+  - [x] Get User list
+  - [x] Get Individual User By Id
+  - [ ] ... Adding more ...
 
 ## Applied Knowledge
 
 - [x] MediatR
 - [x] FluentValidator
 - [x] RESTAPI
-- [x] Hosting
-- [x] Environment
-- [x] Configuration
+- [ ] Hosting
+- [ ] Environment
+- [ ] Configuration
 - [ ] Custom Middleware
-- [x] Logging
-- [ ] Error Handling
+- [ ] Logging
+- [x] Error Handling
 - [x] Dependency Injection
 - [ ] Filter 
-- [ ] Attribute
+- [x] Attribute
 - [ ] RABC
 - [x] LINQ
 - [x] EF Core
